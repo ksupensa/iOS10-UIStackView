@@ -302,6 +302,7 @@
 				F72C53691DF790CC00E1548B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
